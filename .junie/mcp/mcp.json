@@ -1,0 +1,11 @@
+{
+    "mcpServers": {
+        "laravel-boost": {
+            "command": "/Users/thorsten/Library/Application Support/Herd/bin/php84",
+            "args": [
+                "/Users/thorsten/PhpstormProjects/thoasty-dev/tellertouren-web/artisan",
+                "boost:mcp"
+            ]
+        }
+    }
+}
