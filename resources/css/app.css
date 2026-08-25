@@ -1,9 +1,168 @@
-@import 'tailwindcss';
+@import "tailwindcss";
+@import "@fortawesome/fontawesome-free/css/all.css";
+@import "photoswipe/style.css";
+@import "photoswipe-dynamic-caption-plugin/photoswipe-dynamic-caption-plugin.css";
 
-@source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
-@source '../../storage/framework/views/*.php';
+@plugin "@tailwindcss/typography";
+@plugin "daisyui" {
+    themes: tellertouren --default, tellertouren-dark --prefersdark;
+}
+@plugin "daisyui/theme" {
+    name: "tellertouren";
+    default: true;
+    color-scheme: light;
+    --color-primary: #9ec0b3;
+    --color-primary-content: #17372f;
+    --color-secondary: #c1d8e1;
+    --color-secondary-content: #19333d;
+    --color-accent: #37cdbe;
+    --color-accent-content: #083b36;
+    --color-neutral: #3d4451;
+    --color-neutral-content: #f7f7f7;
+    --color-base-100: #ffffff;
+    --color-base-200: #f4f4f4;
+    --color-base-300: #dfdfdf;
+    --color-base-content: #242424;
+    --color-info: #4aa3c0;
+    --color-success: #4d9c72;
+    --color-warning: #c69235;
+    --color-error: #c45c5c;
+    --radius-selector: 0.5rem;
+    --radius-field: 0.5rem;
+    --radius-box: 1rem;
+}
+@plugin "daisyui/theme" {
+    name: "tellertouren-dark";
+    prefersdark: true;
+    color-scheme: dark;
+    --color-primary: #9ec0b3;
+    --color-primary-content: #17372f;
+    --color-secondary: #3c4252;
+    --color-secondary-content: #f1f4f8;
+    --color-accent: #37cdbe;
+    --color-accent-content: #083b36;
+    --color-neutral: #3d4451;
+    --color-neutral-content: #f7f7f7;
+    --color-base-100: #202020;
+    --color-base-200: #1c1c1c;
+    --color-base-300: #181818;
+    --color-base-content: #f2f2f2;
+    --color-info: #68b6d0;
+    --color-success: #66b98b;
+    --color-warning: #d6aa56;
+    --color-error: #dc7777;
+    --radius-selector: 0.5rem;
+    --radius-field: 0.5rem;
+    --radius-box: 1rem;
+}
+
+@source "../views/**/*.blade.php";
+@source "../js/**/*.js";
+@source "../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php";
+@source "../../vendor/livewire/livewire/src/**/*.php";
+
+@font-face {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("../fonts/montserrat-v29-latin-regular.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: url("../fonts/montserrat-v29-latin-600.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Figtree";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("../fonts/figtree-v6-latin-regular.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Figtree";
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: url("../fonts/figtree-v6-latin-700.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Tellertouren";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: url("../fonts/Tellertouren.ttf") format("truetype");
+}
 
 @theme {
-    --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
-        'Segoe UI Symbol', 'Noto Color Emoji';
+    --font-sans: "Figtree", ui-sans-serif, system-ui, sans-serif;
+    --font-title: "Montserrat", ui-sans-serif, system-ui, sans-serif;
+    --font-tellertouren: "Tellertouren", "Brush Script MT", cursive;
+}
+
+@layer base {
+    html {
+        scroll-behavior: smooth;
+    }
+
+    body {
+        width: 100%;
+        overflow-y: scroll;
+        text-rendering: optimizeLegibility;
+        font-feature-settings: "kern";
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-family: var(--font-title);
+        font-weight: 600;
+    }
+}
+
+@layer components {
+    .article-content .article-picture {
+        width: 100%;
+        margin-block: 2rem;
+        border-radius: var(--radius-box);
+    }
+
+    .article-content h1,
+    .article-content h2 {
+        scroll-margin-top: 2rem;
+    }
+
+    .font-tellertouren {
+        font-family: var(--font-tellertouren);
+        line-height: normal;
+    }
+}
+
+[x-cloak],
+[wire\:loading] {
+    display: none !important;
+}
+
+@media (max-width: 36rem) {
+    .article-content h1,
+    .article-content h2,
+    .article-content h3 {
+        text-align: center;
+    }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    html {
+        scroll-behavior: auto;
+    }
 }

@@ -11,6 +11,7 @@
 /.nova
 /.phpunit.cache
 /.vscode
+/tellertouren-gitlab-backup/
 /.zed
 /auth.json
 /node_modules

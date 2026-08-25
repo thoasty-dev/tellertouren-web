@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "name": "Restaurants"
+    },
+    {
+        "id": 2,
+        "name": "Hotels"
+    },
+    {
+        "id": 3,
+        "name": "Schneller Teller"
+    }
+]

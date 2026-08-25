@@ -7,9 +7,15 @@
         "dev": "vite"
     },
     "devDependencies": {
+        "@fortawesome/fontawesome-free": "^6.7.2",
         "@tailwindcss/vite": "^4.0.0",
+        "@tailwindcss/typography": "^0.5.16",
+        "canvas-confetti": "^1.9.3",
         "concurrently": "^10.0.3",
+        "daisyui": "^5.0.0",
         "laravel-vite-plugin": "^3.1",
+        "photoswipe": "^5.4.4",
+        "photoswipe-dynamic-caption-plugin": "^1.2.7",
         "tailwindcss": "^4.0.0",
         "vite": "^8.0.0"
     },

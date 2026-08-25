@@ -1,0 +1,218 @@
+[
+    {
+        "id": 1,
+        "category_id": 1,
+        "question_text": "Wäre dir ein Schnitzel 20€ wert?",
+        "guess_question_text": "Wäre :user ein Schnitzel 20€ wert?",
+        "comment": "Die wichtigen Fragen des Lebens.",
+        "sort_order": 0,
+        "is_active": 1
+    },
+    {
+        "id": 2,
+        "category_id": 1,
+        "question_text": "Was machst du, wenn dein Essen kalt ankommt?",
+        "guess_question_text": "Was macht :user, wenn das Essen kalt ankommt?",
+        "comment": "Jetzt zeigt sich der wahre Charakter.",
+        "sort_order": 1,
+        "is_active": 1
+    },
+    {
+        "id": 3,
+        "category_id": 1,
+        "question_text": "Wie verhältst du dich bei einem All-You-Can-Eat-Buffet?",
+        "guess_question_text": "Wie verhält sich :user bei einem All-You-Can-Eat-Buffet?",
+        "comment": "Hier trennt sich die Spreu vom Weizen.",
+        "sort_order": 2,
+        "is_active": 1
+    },
+    {
+        "id": 4,
+        "category_id": 1,
+        "question_text": "Deine Begleitung bestellt beim Ersten Date nur einen Salat. Was denkst du?",
+        "guess_question_text": "Die Begleitung von :user bestellt beim ersten Date nur einen Salat. Was denkt :user?",
+        "comment": "Erste Dates sind wie Vorstellungsgespräche.",
+        "sort_order": 3,
+        "is_active": 1
+    },
+    {
+        "id": 5,
+        "category_id": 1,
+        "question_text": "Die Bedienung bringt das falsche Gericht. Was tust du?",
+        "guess_question_text": "Die Bedienung bringt das falsche Gericht. Was tut :user?",
+        "comment": "Eine Frage der Selbstbehauptung.",
+        "sort_order": 4,
+        "is_active": 1
+    },
+    {
+        "id": 6,
+        "category_id": 1,
+        "question_text": "Wie viel Trinkgeld gibst du normalerweise?",
+        "guess_question_text": "Wie viel Trinkgeld gibt :user normalerweise?",
+        "comment": "Das sagt viel über einen Menschen aus.",
+        "sort_order": 5,
+        "is_active": 1
+    },
+    {
+        "id": 7,
+        "category_id": 1,
+        "question_text": "Die Speisekarte hat 100 Gerichte. Was machst du?",
+        "guess_question_text": "Die Speisekarte hat 100 Gerichte. Was macht :user?",
+        "comment": "Qual der Wahl oder Paradies?",
+        "sort_order": 6,
+        "is_active": 1
+    },
+    {
+        "id": 8,
+        "category_id": 1,
+        "question_text": "Dein Lieblingsgericht ist ausverkauft. Deine Reaktion?",
+        "guess_question_text": "Das Lieblingsgericht von :user ist ausverkauft. Wie reagiert :user?",
+        "comment": "Flexibilität im Alltag.",
+        "sort_order": 7,
+        "is_active": 1
+    },
+    {
+        "id": 9,
+        "category_id": 1,
+        "question_text": "Am Nebentisch wird laut telefoniert. Was tust du?",
+        "guess_question_text": "Am Nebentisch wird laut telefoniert. Was tut :user?",
+        "comment": "Toleranz hat Grenzen.",
+        "sort_order": 8,
+        "is_active": 1
+    },
+    {
+        "id": 10,
+        "category_id": 1,
+        "question_text": "Wie fotografierst du dein Essen?",
+        "guess_question_text": "Wie fotografiert :user das Essen?",
+        "comment": "Die Dokumentationsfrage.",
+        "sort_order": 9,
+        "is_active": 1
+    },
+    {
+        "id": 11,
+        "category_id": 1,
+        "question_text": "Die Rechnung kommt. Wie wird aufgeteilt?",
+        "guess_question_text": "Die Rechnung kommt. Wie teilt :user auf?",
+        "comment": "Hier werden Freundschaften getestet.",
+        "sort_order": 10,
+        "is_active": 1
+    },
+    {
+        "id": 12,
+        "category_id": 1,
+        "question_text": "Das Restaurant hat nur noch einen Tisch neben der Toilette frei.",
+        "guess_question_text": "Das Restaurant hat nur noch einen Tisch neben der Toilette frei. Was macht :user?",
+        "comment": "Kompromissbereitschaft gefragt.",
+        "sort_order": 11,
+        "is_active": 1
+    },
+    {
+        "id": 13,
+        "category_id": 2,
+        "question_text": "Das Zimmer entspricht nicht den Fotos. Was tust du?",
+        "guess_question_text": "Das Zimmer entspricht nicht den Fotos. Was tut :user?",
+        "comment": "Erwartung vs. Realität.",
+        "sort_order": 0,
+        "is_active": 1
+    },
+    {
+        "id": 14,
+        "category_id": 2,
+        "question_text": "Wie wichtig ist dir das Frühstücksbuffet?",
+        "guess_question_text": "Wie wichtig ist :user das Frühstücksbuffet?",
+        "comment": "Die erste Entscheidung des Tages.",
+        "sort_order": 1,
+        "is_active": 1
+    },
+    {
+        "id": 15,
+        "category_id": 2,
+        "question_text": "Die Minibar ist voll. Was passiert?",
+        "guess_question_text": "Die Minibar ist voll. Was macht :user?",
+        "comment": "Verlockung auf kleinstem Raum.",
+        "sort_order": 2,
+        "is_active": 1
+    },
+    {
+        "id": 16,
+        "category_id": 2,
+        "question_text": "Wie nutzt du das „Bitte nicht stören\"-Schild?",
+        "guess_question_text": "Wie nutzt :user das „Bitte nicht stören\"-Schild?",
+        "comment": "Grenzen setzen im Urlaub.",
+        "sort_order": 3,
+        "is_active": 1
+    },
+    {
+        "id": 17,
+        "category_id": 2,
+        "question_text": "Das WLAN ist langsam. Deine Reaktion?",
+        "guess_question_text": "Das WLAN ist langsam. Wie reagiert :user?",
+        "comment": "Moderne Probleme.",
+        "sort_order": 4,
+        "is_active": 1
+    },
+    {
+        "id": 18,
+        "category_id": 2,
+        "question_text": "Wie viele Handtücher brauchst du pro Tag?",
+        "guess_question_text": "Wie viele Handtücher braucht :user pro Tag?",
+        "comment": "Eine Frage der Gewohnheit.",
+        "sort_order": 5,
+        "is_active": 1
+    },
+    {
+        "id": 19,
+        "category_id": 2,
+        "question_text": "Der Nachbar ist laut. Was machst du?",
+        "guess_question_text": "Der Nachbar ist laut. Was macht :user?",
+        "comment": "Dünne Wände, große Emotionen.",
+        "sort_order": 6,
+        "is_active": 1
+    },
+    {
+        "id": 20,
+        "category_id": 2,
+        "question_text": "Nimmst du die kleinen Shampoos mit?",
+        "guess_question_text": "Nimmt :user die kleinen Shampoos mit?",
+        "comment": "Die ewige Versuchung.",
+        "sort_order": 7,
+        "is_active": 1
+    },
+    {
+        "id": 21,
+        "category_id": 2,
+        "question_text": "Late Checkout um 14 Uhr kostet extra. Was tust du?",
+        "guess_question_text": "Late Checkout um 14 Uhr kostet extra. Was tut :user?",
+        "comment": "Zeit ist Geld.",
+        "sort_order": 8,
+        "is_active": 1
+    },
+    {
+        "id": 22,
+        "category_id": 2,
+        "question_text": "Wie bewertest du Hotels online?",
+        "guess_question_text": "Wie bewertet :user Hotels online?",
+        "comment": "Feedback für die Nachwelt.",
+        "sort_order": 9,
+        "is_active": 1
+    },
+    {
+        "id": 23,
+        "category_id": 2,
+        "question_text": "Der Zimmersafe funktioniert nicht. Was machst du?",
+        "guess_question_text": "Der Zimmersafe funktioniert nicht. Was macht :user?",
+        "comment": "Sicherheit geht vor.",
+        "sort_order": 10,
+        "is_active": 1
+    },
+    {
+        "id": 24,
+        "category_id": 2,
+        "question_text": "Das Zimmer ist bei Ankunft noch nicht fertig gereinigt.",
+        "guess_question_text": "Das Zimmer ist bei Ankunft noch nicht fertig gereinigt. Was macht :user?",
+        "comment": "Der erste Eindruck zählt.",
+        "sort_order": 11,
+        "is_active": 1
+    }
+]

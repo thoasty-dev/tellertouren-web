@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "category_id": 1,
+        "question_text": "Was ist dir beim Essen gehen am wichtigsten?",
+        "is_active": 1
+    },
+    {
+        "id": 2,
+        "category_id": 1,
+        "question_text": "Wie wichtig ist dir eine umfangreiche Speisekarte?",
+        "is_active": 1
+    },
+    {
+        "id": 3,
+        "category_id": 1,
+        "question_text": "Wie oft gehst du auswärts essen?",
+        "is_active": 1
+    },
+    {
+        "id": 4,
+        "category_id": 1,
+        "question_text": "Welche Küche bevorzugst du am meisten?",
+        "is_active": 1
+    },
+    {
+        "id": 5,
+        "category_id": 1,
+        "question_text": "Wie wichtig sind dir vegane/vegetarische Optionen?",
+        "is_active": 1
+    },
+    {
+        "id": 6,
+        "category_id": 1,
+        "question_text": "Was macht für dich ein perfektes Restaurant-Erlebnis aus?",
+        "is_active": 1
+    },
+    {
+        "id": 7,
+        "category_id": 1,
+        "question_text": "Wie buchst du normalerweise einen Tisch?",
+        "is_active": 1
+    },
+    {
+        "id": 8,
+        "category_id": 1,
+        "question_text": "Wie wichtig ist dir Nachhaltigkeit im Restaurant?",
+        "is_active": 1
+    },
+    {
+        "id": 9,
+        "category_id": 2,
+        "question_text": "Was ist dir bei der Hotelwahl am wichtigsten?",
+        "is_active": 1
+    },
+    {
+        "id": 10,
+        "category_id": 2,
+        "question_text": "Welche Unterkunftsart bevorzugst du?",
+        "is_active": 1
+    },
+    {
+        "id": 11,
+        "category_id": 2,
+        "question_text": "Wie wichtig ist dir das Frühstück im Hotel?",
+        "is_active": 1
+    },
+    {
+        "id": 12,
+        "category_id": 2,
+        "question_text": "Welche Hotelausstattung ist für dich unverzichtbar?",
+        "is_active": 1
+    },
+    {
+        "id": 13,
+        "category_id": 2,
+        "question_text": "Wie buchst du normalerweise deine Unterkunft?",
+        "is_active": 1
+    },
+    {
+        "id": 14,
+        "category_id": 2,
+        "question_text": "Wie weit im Voraus buchst du normalerweise?",
+        "is_active": 1
+    },
+    {
+        "id": 15,
+        "category_id": 2,
+        "question_text": "Was stört dich am meisten in einem Hotel?",
+        "is_active": 1
+    },
+    {
+        "id": 16,
+        "category_id": 2,
+        "question_text": "Wie wichtig ist dir Nachhaltigkeit bei der Unterkunftswahl?",
+        "is_active": 1
+    }
+]

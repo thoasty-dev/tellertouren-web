@@ -1,0 +1,452 @@
+[
+    {
+        "id": 1,
+        "poll_question_id": 1,
+        "answer_text": "Die Qualität des Essens",
+        "sort_order": 0
+    },
+    {
+        "id": 2,
+        "poll_question_id": 1,
+        "answer_text": "Das Ambiente und die Atmosphäre",
+        "sort_order": 1
+    },
+    {
+        "id": 3,
+        "poll_question_id": 1,
+        "answer_text": "Der Service",
+        "sort_order": 2
+    },
+    {
+        "id": 4,
+        "poll_question_id": 1,
+        "answer_text": "Das Preis-Leistungs-Verhältnis",
+        "sort_order": 3
+    },
+    {
+        "id": 5,
+        "poll_question_id": 1,
+        "answer_text": "Die Lage des Restaurants",
+        "sort_order": 4
+    },
+    {
+        "id": 6,
+        "poll_question_id": 2,
+        "answer_text": "Sehr wichtig - ich möchte viel Auswahl",
+        "sort_order": 0
+    },
+    {
+        "id": 7,
+        "poll_question_id": 2,
+        "answer_text": "Mittel - eine überschaubare Auswahl reicht mir",
+        "sort_order": 1
+    },
+    {
+        "id": 8,
+        "poll_question_id": 2,
+        "answer_text": "Weniger wichtig - ich bevorzuge spezialisierte Restaurants",
+        "sort_order": 2
+    },
+    {
+        "id": 9,
+        "poll_question_id": 2,
+        "answer_text": "Unwichtig - Qualität geht vor Quantität",
+        "sort_order": 3
+    },
+    {
+        "id": 10,
+        "poll_question_id": 3,
+        "answer_text": "Mehrmals pro Woche",
+        "sort_order": 0
+    },
+    {
+        "id": 11,
+        "poll_question_id": 3,
+        "answer_text": "Einmal pro Woche",
+        "sort_order": 1
+    },
+    {
+        "id": 12,
+        "poll_question_id": 3,
+        "answer_text": "Ein paar Mal im Monat",
+        "sort_order": 2
+    },
+    {
+        "id": 13,
+        "poll_question_id": 3,
+        "answer_text": "Einmal im Monat oder seltener",
+        "sort_order": 3
+    },
+    {
+        "id": 14,
+        "poll_question_id": 3,
+        "answer_text": "Nur zu besonderen Anlässen",
+        "sort_order": 4
+    },
+    {
+        "id": 15,
+        "poll_question_id": 4,
+        "answer_text": "Deutsche / Österreichische Küche",
+        "sort_order": 0
+    },
+    {
+        "id": 16,
+        "poll_question_id": 4,
+        "answer_text": "Italienische Küche",
+        "sort_order": 1
+    },
+    {
+        "id": 17,
+        "poll_question_id": 4,
+        "answer_text": "Asiatische Küche",
+        "sort_order": 2
+    },
+    {
+        "id": 18,
+        "poll_question_id": 4,
+        "answer_text": "Mediterrane Küche",
+        "sort_order": 3
+    },
+    {
+        "id": 19,
+        "poll_question_id": 4,
+        "answer_text": "Internationale Fusionsküche",
+        "sort_order": 4
+    },
+    {
+        "id": 20,
+        "poll_question_id": 5,
+        "answer_text": "Sehr wichtig - ich ernähre mich vegan/vegetarisch",
+        "sort_order": 0
+    },
+    {
+        "id": 21,
+        "poll_question_id": 5,
+        "answer_text": "Wichtig - ich achte auf pflanzliche Alternativen",
+        "sort_order": 1
+    },
+    {
+        "id": 22,
+        "poll_question_id": 5,
+        "answer_text": "Neutral - schön zu haben, aber kein Muss",
+        "sort_order": 2
+    },
+    {
+        "id": 23,
+        "poll_question_id": 5,
+        "answer_text": "Weniger wichtig - ich esse gerne Fleisch/Fisch",
+        "sort_order": 3
+    },
+    {
+        "id": 24,
+        "poll_question_id": 6,
+        "answer_text": "Überraschendes, kreatives Essen",
+        "sort_order": 0
+    },
+    {
+        "id": 25,
+        "poll_question_id": 6,
+        "answer_text": "Gemütliche, entspannte Atmosphäre",
+        "sort_order": 1
+    },
+    {
+        "id": 26,
+        "poll_question_id": 6,
+        "answer_text": "Aufmerksamer, persönlicher Service",
+        "sort_order": 2
+    },
+    {
+        "id": 27,
+        "poll_question_id": 6,
+        "answer_text": "Ein gutes Preis-Leistungs-Verhältnis",
+        "sort_order": 3
+    },
+    {
+        "id": 28,
+        "poll_question_id": 6,
+        "answer_text": "Eine schöne Aussicht oder besondere Location",
+        "sort_order": 4
+    },
+    {
+        "id": 29,
+        "poll_question_id": 7,
+        "answer_text": "Online über die Restaurant-Website",
+        "sort_order": 0
+    },
+    {
+        "id": 30,
+        "poll_question_id": 7,
+        "answer_text": "Über Buchungsportale wie OpenTable",
+        "sort_order": 1
+    },
+    {
+        "id": 31,
+        "poll_question_id": 7,
+        "answer_text": "Telefonisch",
+        "sort_order": 2
+    },
+    {
+        "id": 32,
+        "poll_question_id": 7,
+        "answer_text": "Ich gehe spontan hin",
+        "sort_order": 3
+    },
+    {
+        "id": 33,
+        "poll_question_id": 7,
+        "answer_text": "Über Social Media / WhatsApp",
+        "sort_order": 4
+    },
+    {
+        "id": 34,
+        "poll_question_id": 8,
+        "answer_text": "Sehr wichtig - ich wähle nur nachhaltige Restaurants",
+        "sort_order": 0
+    },
+    {
+        "id": 35,
+        "poll_question_id": 8,
+        "answer_text": "Wichtig - es beeinflusst meine Entscheidung",
+        "sort_order": 1
+    },
+    {
+        "id": 36,
+        "poll_question_id": 8,
+        "answer_text": "Neutral - es ist ein Bonus",
+        "sort_order": 2
+    },
+    {
+        "id": 37,
+        "poll_question_id": 8,
+        "answer_text": "Weniger wichtig - andere Faktoren sind wichtiger",
+        "sort_order": 3
+    },
+    {
+        "id": 38,
+        "poll_question_id": 9,
+        "answer_text": "Die Lage",
+        "sort_order": 0
+    },
+    {
+        "id": 39,
+        "poll_question_id": 9,
+        "answer_text": "Der Preis",
+        "sort_order": 1
+    },
+    {
+        "id": 40,
+        "poll_question_id": 9,
+        "answer_text": "Die Ausstattung",
+        "sort_order": 2
+    },
+    {
+        "id": 41,
+        "poll_question_id": 9,
+        "answer_text": "Die Bewertungen anderer Gäste",
+        "sort_order": 3
+    },
+    {
+        "id": 42,
+        "poll_question_id": 9,
+        "answer_text": "Die Sauberkeit",
+        "sort_order": 4
+    },
+    {
+        "id": 43,
+        "poll_question_id": 10,
+        "answer_text": "Luxushotel (5 Sterne)",
+        "sort_order": 0
+    },
+    {
+        "id": 44,
+        "poll_question_id": 10,
+        "answer_text": "Mittelklasse-Hotel (3-4 Sterne)",
+        "sort_order": 1
+    },
+    {
+        "id": 45,
+        "poll_question_id": 10,
+        "answer_text": "Boutique-Hotel",
+        "sort_order": 2
+    },
+    {
+        "id": 46,
+        "poll_question_id": 10,
+        "answer_text": "Ferienwohnung / Airbnb",
+        "sort_order": 3
+    },
+    {
+        "id": 47,
+        "poll_question_id": 10,
+        "answer_text": "Hostel oder Budget-Hotel",
+        "sort_order": 4
+    },
+    {
+        "id": 48,
+        "poll_question_id": 11,
+        "answer_text": "Sehr wichtig - es muss im Preis enthalten sein",
+        "sort_order": 0
+    },
+    {
+        "id": 49,
+        "poll_question_id": 11,
+        "answer_text": "Wichtig - aber ich zahle auch extra dafür",
+        "sort_order": 1
+    },
+    {
+        "id": 50,
+        "poll_question_id": 11,
+        "answer_text": "Neutral - ich frühstücke oft auswärts",
+        "sort_order": 2
+    },
+    {
+        "id": 51,
+        "poll_question_id": 11,
+        "answer_text": "Unwichtig - ich brauche kein Frühstück",
+        "sort_order": 3
+    },
+    {
+        "id": 52,
+        "poll_question_id": 12,
+        "answer_text": "Kostenloses WLAN",
+        "sort_order": 0
+    },
+    {
+        "id": 53,
+        "poll_question_id": 12,
+        "answer_text": "Klimaanlage",
+        "sort_order": 1
+    },
+    {
+        "id": 54,
+        "poll_question_id": 12,
+        "answer_text": "Fitness- oder Wellnessbereich",
+        "sort_order": 2
+    },
+    {
+        "id": 55,
+        "poll_question_id": 12,
+        "answer_text": "Parkplatz",
+        "sort_order": 3
+    },
+    {
+        "id": 56,
+        "poll_question_id": 12,
+        "answer_text": "Balkon oder Terrasse",
+        "sort_order": 4
+    },
+    {
+        "id": 57,
+        "poll_question_id": 13,
+        "answer_text": "Über Buchungsportale (Booking.com, Expedia)",
+        "sort_order": 0
+    },
+    {
+        "id": 58,
+        "poll_question_id": 13,
+        "answer_text": "Direkt auf der Hotel-Website",
+        "sort_order": 1
+    },
+    {
+        "id": 59,
+        "poll_question_id": 13,
+        "answer_text": "Über Reisebüros",
+        "sort_order": 2
+    },
+    {
+        "id": 60,
+        "poll_question_id": 13,
+        "answer_text": "Über Empfehlungen von Freunden",
+        "sort_order": 3
+    },
+    {
+        "id": 61,
+        "poll_question_id": 13,
+        "answer_text": "Spontan vor Ort",
+        "sort_order": 4
+    },
+    {
+        "id": 62,
+        "poll_question_id": 14,
+        "answer_text": "Mehr als 3 Monate vorher",
+        "sort_order": 0
+    },
+    {
+        "id": 63,
+        "poll_question_id": 14,
+        "answer_text": "1-3 Monate vorher",
+        "sort_order": 1
+    },
+    {
+        "id": 64,
+        "poll_question_id": 14,
+        "answer_text": "2-4 Wochen vorher",
+        "sort_order": 2
+    },
+    {
+        "id": 65,
+        "poll_question_id": 14,
+        "answer_text": "Wenige Tage vorher",
+        "sort_order": 3
+    },
+    {
+        "id": 66,
+        "poll_question_id": 14,
+        "answer_text": "Last-Minute am selben Tag",
+        "sort_order": 4
+    },
+    {
+        "id": 67,
+        "poll_question_id": 15,
+        "answer_text": "Lärm (Straße, andere Gäste)",
+        "sort_order": 0
+    },
+    {
+        "id": 68,
+        "poll_question_id": 15,
+        "answer_text": "Mangelnde Sauberkeit",
+        "sort_order": 1
+    },
+    {
+        "id": 69,
+        "poll_question_id": 15,
+        "answer_text": "Unfreundliches Personal",
+        "sort_order": 2
+    },
+    {
+        "id": 70,
+        "poll_question_id": 15,
+        "answer_text": "Schlechtes WLAN",
+        "sort_order": 3
+    },
+    {
+        "id": 71,
+        "poll_question_id": 15,
+        "answer_text": "Versteckte Zusatzkosten",
+        "sort_order": 4
+    },
+    {
+        "id": 72,
+        "poll_question_id": 16,
+        "answer_text": "Sehr wichtig - ich suche gezielt nach nachhaltigen Hotels",
+        "sort_order": 0
+    },
+    {
+        "id": 73,
+        "poll_question_id": 16,
+        "answer_text": "Wichtig - es beeinflusst meine Entscheidung",
+        "sort_order": 1
+    },
+    {
+        "id": 74,
+        "poll_question_id": 16,
+        "answer_text": "Neutral - es ist ein netter Bonus",
+        "sort_order": 2
+    },
+    {
+        "id": 75,
+        "poll_question_id": 16,
+        "answer_text": "Weniger wichtig - andere Faktoren sind entscheidender",
+        "sort_order": 3
+    }
+]

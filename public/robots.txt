@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://tellertouren.de/storage/sitemap.xml

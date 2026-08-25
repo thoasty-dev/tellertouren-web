@@ -1,6 +1,11 @@
 <?php
 
 use Intervention\Image\Drivers\Gd\Driver;
+use League\CommonMark\Extension\Attributes\AttributesExtension;
+use League\CommonMark\Extension\DisallowedRawHtml\DisallowedRawHtmlExtension;
+use League\CommonMark\Extension\ExternalLink\ExternalLinkExtension;
+use League\CommonMark\Extension\HeadingPermalink\HeadingPermalinkExtension;
+use League\CommonMark\Extension\SmartPunct\SmartPunctExtension;
 
 return [
     'paths' => [
@@ -9,19 +14,37 @@ return [
     ],
 
     'languages' => [
-        // Null delegates to app.locale and app.fallback_locale at query time.
-        'default' => null,
-        'fallback' => null,
+        'default' => 'de',
+        'fallback' => 'de',
     ],
 
     'commonmark' => [
         'options' => [
             'html_input' => 'strip',
             'allow_unsafe_links' => false,
+            'heading_permalink' => [
+                'min_heading_level' => 1,
+                'max_heading_level' => 2,
+                'insert' => 'none',
+                'id_prefix' => '',
+                'apply_id_to_heading' => true,
+                'fragment_prefix' => '',
+            ],
+            'external_link' => [
+                'internal_hosts' => [parse_url((string) config('app.url'), PHP_URL_HOST)],
+                'open_in_new_window' => true,
+                'noopener' => 'external',
+                'noreferrer' => 'external',
+            ],
         ],
 
-        // Class names are resolved through Laravel's container.
-        'extensions' => [],
+        'extensions' => [
+            AttributesExtension::class,
+            DisallowedRawHtmlExtension::class,
+            ExternalLinkExtension::class,
+            HeadingPermalinkExtension::class,
+            SmartPunctExtension::class,
+        ],
     ],
 
     'images' => [

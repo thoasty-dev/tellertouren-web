@@ -1,0 +1,674 @@
+[
+    {
+        "id": 1,
+        "minigame_question_id": 1,
+        "answer_text": "Ja, wenn das Ambiente stimmt.",
+        "guess_answer_text": "Ja, wenn :user das Ambiente gefällt.",
+        "sort_order": 0
+    },
+    {
+        "id": 2,
+        "minigame_question_id": 1,
+        "answer_text": "Ja, wenn es wirklich gut schmeckt.",
+        "guess_answer_text": "Ja, wenn es :user wirklich gut schmeckt.",
+        "sort_order": 1
+    },
+    {
+        "id": 3,
+        "minigame_question_id": 1,
+        "answer_text": "Nur wenn es tellergroß ist.",
+        "guess_answer_text": "Nur wenn es tellergroß ist.",
+        "sort_order": 2
+    },
+    {
+        "id": 4,
+        "minigame_question_id": 1,
+        "answer_text": "Niemals. Das ist Prinzipsache.",
+        "guess_answer_text": "Niemals. Das ist bei :user Prinzipsache.",
+        "sort_order": 3
+    },
+    {
+        "id": 5,
+        "minigame_question_id": 2,
+        "answer_text": "Kein Problem, ich esse sowieso am liebsten kalt.",
+        "guess_answer_text": "Kein Problem, :user isst sowieso am liebsten kalt.",
+        "sort_order": 0
+    },
+    {
+        "id": 6,
+        "minigame_question_id": 2,
+        "answer_text": "Laut seufzen und hoffen, dass es jemand bemerkt.",
+        "guess_answer_text": "Laut seufzen und hoffen, dass es jemand bemerkt.",
+        "sort_order": 1
+    },
+    {
+        "id": 7,
+        "minigame_question_id": 2,
+        "answer_text": "Direkt die Bedienung rufen.",
+        "guess_answer_text": "Direkt die Bedienung rufen.",
+        "sort_order": 2
+    },
+    {
+        "id": 8,
+        "minigame_question_id": 2,
+        "answer_text": "Selbst in die Küche marschieren.",
+        "guess_answer_text": "Selbst in die Küche marschieren.",
+        "sort_order": 3
+    },
+    {
+        "id": 9,
+        "minigame_question_id": 3,
+        "answer_text": "Essen bis nichts mehr geht.",
+        "guess_answer_text": "Essen bis nichts mehr geht.",
+        "sort_order": 0
+    },
+    {
+        "id": 10,
+        "minigame_question_id": 3,
+        "answer_text": "Normal essen wie immer.",
+        "guess_answer_text": "Normal essen wie immer.",
+        "sort_order": 1
+    },
+    {
+        "id": 11,
+        "minigame_question_id": 3,
+        "answer_text": "Strategisch vorgehen: erst das Teure.",
+        "guess_answer_text": "Strategisch vorgehen: erst das Teure.",
+        "sort_order": 2
+    },
+    {
+        "id": 12,
+        "minigame_question_id": 3,
+        "answer_text": "Hauptsächlich am Dessertbuffet.",
+        "guess_answer_text": "Hauptsächlich am Dessertbuffet.",
+        "sort_order": 3
+    },
+    {
+        "id": 13,
+        "minigame_question_id": 4,
+        "answer_text": "Gute Wahl, klingt lecker.",
+        "guess_answer_text": "Gute Wahl, klingt lecker.",
+        "sort_order": 0
+    },
+    {
+        "id": 14,
+        "minigame_question_id": 4,
+        "answer_text": "Ich bestelle auch was Leichtes.",
+        "guess_answer_text": ":user bestellt auch was Leichtes.",
+        "sort_order": 1
+    },
+    {
+        "id": 15,
+        "minigame_question_id": 4,
+        "answer_text": "Egal, ich nehme trotzdem mein Schnitzel.",
+        "guess_answer_text": "Egal, :user nimmt trotzdem das Schnitzel.",
+        "sort_order": 2
+    },
+    {
+        "id": 16,
+        "minigame_question_id": 4,
+        "answer_text": "Date abbrechen.",
+        "guess_answer_text": ":user bricht das Date ab.",
+        "sort_order": 3
+    },
+    {
+        "id": 17,
+        "minigame_question_id": 5,
+        "answer_text": "Einfach essen. Passt schon.",
+        "guess_answer_text": "Einfach essen. Passt schon.",
+        "sort_order": 0
+    },
+    {
+        "id": 18,
+        "minigame_question_id": 5,
+        "answer_text": "Höflich Bescheid sagen.",
+        "guess_answer_text": "Höflich Bescheid sagen.",
+        "sort_order": 1
+    },
+    {
+        "id": 19,
+        "minigame_question_id": 5,
+        "answer_text": "Erst probieren, dann entscheiden.",
+        "guess_answer_text": "Erst probieren, dann entscheiden.",
+        "sort_order": 2
+    },
+    {
+        "id": 20,
+        "minigame_question_id": 5,
+        "answer_text": "Sofort reklamieren.",
+        "guess_answer_text": "Sofort reklamieren.",
+        "sort_order": 3
+    },
+    {
+        "id": 21,
+        "minigame_question_id": 6,
+        "answer_text": "Aufrunden auf den nächsten Euro.",
+        "guess_answer_text": "Aufrunden auf den nächsten Euro.",
+        "sort_order": 0
+    },
+    {
+        "id": 22,
+        "minigame_question_id": 6,
+        "answer_text": "Ca. 5-10% je nach Service.",
+        "guess_answer_text": "Ca. 5-10% je nach Service.",
+        "sort_order": 1
+    },
+    {
+        "id": 23,
+        "minigame_question_id": 6,
+        "answer_text": "10% oder mehr - guter Service muss belohnt werden.",
+        "guess_answer_text": "10% oder mehr - guter Service muss belohnt werden.",
+        "sort_order": 2
+    },
+    {
+        "id": 24,
+        "minigame_question_id": 6,
+        "answer_text": "Was gerade übrig ist.",
+        "guess_answer_text": "Was gerade übrig ist.",
+        "sort_order": 3
+    },
+    {
+        "id": 25,
+        "minigame_question_id": 7,
+        "answer_text": "Alles durchlesen. Gründlichkeit ist wichtig.",
+        "guess_answer_text": "Alles durchlesen. Gründlichkeit ist wichtig.",
+        "sort_order": 0
+    },
+    {
+        "id": 26,
+        "minigame_question_id": 7,
+        "answer_text": "Die Bedienung nach einer Empfehlung fragen.",
+        "guess_answer_text": "Die Bedienung nach einer Empfehlung fragen.",
+        "sort_order": 1
+    },
+    {
+        "id": 27,
+        "minigame_question_id": 7,
+        "answer_text": "Das Erste nehmen, was gut klingt.",
+        "guess_answer_text": "Das Erste nehmen, was gut klingt.",
+        "sort_order": 2
+    },
+    {
+        "id": 28,
+        "minigame_question_id": 7,
+        "answer_text": "Mindestens 20 Minuten brauchen.",
+        "guess_answer_text": "Mindestens 20 Minuten brauchen.",
+        "sort_order": 3
+    },
+    {
+        "id": 29,
+        "minigame_question_id": 8,
+        "answer_text": "Der Abend ist gelaufen.",
+        "guess_answer_text": "Der Abend ist gelaufen.",
+        "sort_order": 0
+    },
+    {
+        "id": 30,
+        "minigame_question_id": 8,
+        "answer_text": "Kein Problem, dann was Neues probieren.",
+        "guess_answer_text": "Kein Problem, dann was Neues probieren.",
+        "sort_order": 1
+    },
+    {
+        "id": 31,
+        "minigame_question_id": 8,
+        "answer_text": "Fragen, ob sie es doch noch machen können.",
+        "guess_answer_text": "Fragen, ob sie es doch noch machen können.",
+        "sort_order": 2
+    },
+    {
+        "id": 32,
+        "minigame_question_id": 8,
+        "answer_text": "Woanders hingehen.",
+        "guess_answer_text": "Woanders hingehen.",
+        "sort_order": 3
+    },
+    {
+        "id": 33,
+        "minigame_question_id": 9,
+        "answer_text": "Mithören. Ist ja auch interessant.",
+        "guess_answer_text": "Mithören. Ist ja auch interessant.",
+        "sort_order": 0
+    },
+    {
+        "id": 34,
+        "minigame_question_id": 9,
+        "answer_text": "Genervte Blicke rüberwerfen.",
+        "guess_answer_text": "Genervte Blicke rüberwerfen.",
+        "sort_order": 1
+    },
+    {
+        "id": 35,
+        "minigame_question_id": 9,
+        "answer_text": "Die Bedienung bitten, etwas zu sagen.",
+        "guess_answer_text": "Die Bedienung bitten, etwas zu sagen.",
+        "sort_order": 2
+    },
+    {
+        "id": 36,
+        "minigame_question_id": 9,
+        "answer_text": "Ignorieren und weitermachen.",
+        "guess_answer_text": "Ignorieren und weitermachen.",
+        "sort_order": 3
+    },
+    {
+        "id": 37,
+        "minigame_question_id": 10,
+        "answer_text": "Gar nicht. Ich esse einfach.",
+        "guess_answer_text": "Gar nicht. :user isst einfach.",
+        "sort_order": 0
+    },
+    {
+        "id": 38,
+        "minigame_question_id": 10,
+        "answer_text": "Schnelles Handyfoto.",
+        "guess_answer_text": "Schnelles Handyfoto.",
+        "sort_order": 1
+    },
+    {
+        "id": 39,
+        "minigame_question_id": 10,
+        "answer_text": "Ordentlich arrangieren für Instagram.",
+        "guess_answer_text": "Ordentlich arrangieren für Instagram.",
+        "sort_order": 2
+    },
+    {
+        "id": 40,
+        "minigame_question_id": 10,
+        "answer_text": "Andere fotografieren lassen, ich esse schon.",
+        "guess_answer_text": "Andere fotografieren lassen, :user isst schon.",
+        "sort_order": 3
+    },
+    {
+        "id": 41,
+        "minigame_question_id": 11,
+        "answer_text": "Jeder zahlt, was er bestellt hat.",
+        "guess_answer_text": "Jeder zahlt, was er bestellt hat.",
+        "sort_order": 0
+    },
+    {
+        "id": 42,
+        "minigame_question_id": 11,
+        "answer_text": "Einfach durch die Anzahl teilen.",
+        "guess_answer_text": "Einfach durch die Anzahl teilen.",
+        "sort_order": 1
+    },
+    {
+        "id": 43,
+        "minigame_question_id": 11,
+        "answer_text": "Ich lade ein.",
+        "guess_answer_text": ":user lädt ein.",
+        "sort_order": 2
+    },
+    {
+        "id": 44,
+        "minigame_question_id": 11,
+        "answer_text": "Kurz auf Toilette verschwinden.",
+        "guess_answer_text": "Kurz auf Toilette verschwinden.",
+        "sort_order": 3
+    },
+    {
+        "id": 45,
+        "minigame_question_id": 12,
+        "answer_text": "Nehmen. Besser als nichts.",
+        "guess_answer_text": "Nehmen. Besser als nichts.",
+        "sort_order": 0
+    },
+    {
+        "id": 46,
+        "minigame_question_id": 12,
+        "answer_text": "Ablehnen und woanders hin.",
+        "guess_answer_text": "Ablehnen und woanders hin.",
+        "sort_order": 1
+    },
+    {
+        "id": 47,
+        "minigame_question_id": 12,
+        "answer_text": "Nehmen, aber innerlich genervt sein.",
+        "guess_answer_text": "Nehmen, aber innerlich genervt sein.",
+        "sort_order": 2
+    },
+    {
+        "id": 48,
+        "minigame_question_id": 12,
+        "answer_text": "Fragen, ob später was anderes frei wird.",
+        "guess_answer_text": "Fragen, ob später was anderes frei wird.",
+        "sort_order": 3
+    },
+    {
+        "id": 49,
+        "minigame_question_id": 13,
+        "answer_text": "An der Rezeption beschweren.",
+        "guess_answer_text": "An der Rezeption beschweren.",
+        "sort_order": 0
+    },
+    {
+        "id": 50,
+        "minigame_question_id": 13,
+        "answer_text": "Akzeptieren, ist ja nur zum Schlafen.",
+        "guess_answer_text": "Akzeptieren, ist ja nur zum Schlafen.",
+        "sort_order": 1
+    },
+    {
+        "id": 51,
+        "minigame_question_id": 13,
+        "answer_text": "Eine ehrliche Online-Bewertung schreiben.",
+        "guess_answer_text": "Eine ehrliche Online-Bewertung schreiben.",
+        "sort_order": 2
+    },
+    {
+        "id": 52,
+        "minigame_question_id": 13,
+        "answer_text": "Upgrade oder Geld zurück verlangen.",
+        "guess_answer_text": "Upgrade oder Geld zurück verlangen.",
+        "sort_order": 3
+    },
+    {
+        "id": 53,
+        "minigame_question_id": 14,
+        "answer_text": "Sehr wichtig, dafür stehe ich extra früh auf.",
+        "guess_answer_text": "Sehr wichtig, dafür steht :user extra früh auf.",
+        "sort_order": 0
+    },
+    {
+        "id": 54,
+        "minigame_question_id": 14,
+        "answer_text": "Eher ausschlafen.",
+        "guess_answer_text": "Eher ausschlafen.",
+        "sort_order": 1
+    },
+    {
+        "id": 55,
+        "minigame_question_id": 14,
+        "answer_text": "Ich nehme mir was für später mit.",
+        "guess_answer_text": ":user nimmt sich was für später mit.",
+        "sort_order": 2
+    },
+    {
+        "id": 56,
+        "minigame_question_id": 14,
+        "answer_text": "Nur einen Kaffee, mehr brauche ich nicht.",
+        "guess_answer_text": "Nur einen Kaffee, mehr braucht :user nicht.",
+        "sort_order": 3
+    },
+    {
+        "id": 57,
+        "minigame_question_id": 15,
+        "answer_text": "Nur anschauen, bei den Preisen.",
+        "guess_answer_text": "Nur anschauen, bei den Preisen.",
+        "sort_order": 0
+    },
+    {
+        "id": 58,
+        "minigame_question_id": 15,
+        "answer_text": "Eine Kleinigkeit gönnen.",
+        "guess_answer_text": "Eine Kleinigkeit gönnen.",
+        "sort_order": 1
+    },
+    {
+        "id": 59,
+        "minigame_question_id": 15,
+        "answer_text": "Leer räumen und mit eigenem Zeug füllen.",
+        "guess_answer_text": "Leer räumen und mit eigenem Zeug füllen.",
+        "sort_order": 2
+    },
+    {
+        "id": 60,
+        "minigame_question_id": 15,
+        "answer_text": "Gar nicht erst aufmachen.",
+        "guess_answer_text": "Gar nicht erst aufmachen.",
+        "sort_order": 3
+    },
+    {
+        "id": 61,
+        "minigame_question_id": 16,
+        "answer_text": "Permanent draußen.",
+        "guess_answer_text": "Permanent draußen.",
+        "sort_order": 0
+    },
+    {
+        "id": 62,
+        "minigame_question_id": 16,
+        "answer_text": "Nur wenn ich wirklich Ruhe brauche.",
+        "guess_answer_text": "Nur wenn :user wirklich Ruhe braucht.",
+        "sort_order": 1
+    },
+    {
+        "id": 63,
+        "minigame_question_id": 16,
+        "answer_text": "Nie, ich mag es wenn das Zimmer gemacht wird.",
+        "guess_answer_text": "Nie, :user mag es wenn das Zimmer gemacht wird.",
+        "sort_order": 2
+    },
+    {
+        "id": 64,
+        "minigame_question_id": 16,
+        "answer_text": "Ich vergesse immer, dass es das gibt.",
+        "guess_answer_text": ":user vergisst immer, dass es das gibt.",
+        "sort_order": 3
+    },
+    {
+        "id": 65,
+        "minigame_question_id": 17,
+        "answer_text": "Sofort beschweren.",
+        "guess_answer_text": "Sofort beschweren.",
+        "sort_order": 0
+    },
+    {
+        "id": 66,
+        "minigame_question_id": 17,
+        "answer_text": "Mobile Daten nutzen.",
+        "guess_answer_text": "Mobile Daten nutzen.",
+        "sort_order": 1
+    },
+    {
+        "id": 67,
+        "minigame_question_id": 17,
+        "answer_text": "Mal als Digital Detox sehen.",
+        "guess_answer_text": "Mal als Digital Detox sehen.",
+        "sort_order": 2
+    },
+    {
+        "id": 68,
+        "minigame_question_id": 17,
+        "answer_text": "In die Lobby setzen, da ist es schneller.",
+        "guess_answer_text": "In die Lobby setzen, da ist es schneller.",
+        "sort_order": 3
+    },
+    {
+        "id": 69,
+        "minigame_question_id": 18,
+        "answer_text": "Eins reicht völlig.",
+        "guess_answer_text": "Eins reicht völlig.",
+        "sort_order": 0
+    },
+    {
+        "id": 70,
+        "minigame_question_id": 18,
+        "answer_text": "Zwei bis drei.",
+        "guess_answer_text": "Zwei bis drei.",
+        "sort_order": 1
+    },
+    {
+        "id": 71,
+        "minigame_question_id": 18,
+        "answer_text": "Alle die da sind.",
+        "guess_answer_text": "Alle die da sind.",
+        "sort_order": 2
+    },
+    {
+        "id": 72,
+        "minigame_question_id": 18,
+        "answer_text": "Ich bringe eigene mit.",
+        "guess_answer_text": ":user bringt eigene mit.",
+        "sort_order": 3
+    },
+    {
+        "id": 73,
+        "minigame_question_id": 19,
+        "answer_text": "An die Wand klopfen.",
+        "guess_answer_text": "An die Wand klopfen.",
+        "sort_order": 0
+    },
+    {
+        "id": 74,
+        "minigame_question_id": 19,
+        "answer_text": "Die Rezeption anrufen.",
+        "guess_answer_text": "Die Rezeption anrufen.",
+        "sort_order": 1
+    },
+    {
+        "id": 75,
+        "minigame_question_id": 19,
+        "answer_text": "Fernseher lauter drehen.",
+        "guess_answer_text": "Fernseher lauter drehen.",
+        "sort_order": 2
+    },
+    {
+        "id": 76,
+        "minigame_question_id": 19,
+        "answer_text": "Ohrstöpsel rein und schlafen.",
+        "guess_answer_text": "Ohrstöpsel rein und schlafen.",
+        "sort_order": 3
+    },
+    {
+        "id": 77,
+        "minigame_question_id": 20,
+        "answer_text": "Alle, natürlich.",
+        "guess_answer_text": "Alle, natürlich.",
+        "sort_order": 0
+    },
+    {
+        "id": 78,
+        "minigame_question_id": 20,
+        "answer_text": "Nur die gut riechenden.",
+        "guess_answer_text": "Nur die gut riechenden.",
+        "sort_order": 1
+    },
+    {
+        "id": 79,
+        "minigame_question_id": 20,
+        "answer_text": "Nein, ich habe eigene dabei.",
+        "guess_answer_text": "Nein, :user hat eigene dabei.",
+        "sort_order": 2
+    },
+    {
+        "id": 80,
+        "minigame_question_id": 20,
+        "answer_text": "Ich sammle sie.",
+        "guess_answer_text": ":user sammelt sie.",
+        "sort_order": 3
+    },
+    {
+        "id": 81,
+        "minigame_question_id": 21,
+        "answer_text": "Zahlen, Ausschlafen ist es wert.",
+        "guess_answer_text": "Zahlen, Ausschlafen ist es wert.",
+        "sort_order": 0
+    },
+    {
+        "id": 82,
+        "minigame_question_id": 21,
+        "answer_text": "Höflich fragen, ob es kostenlos geht.",
+        "guess_answer_text": "Höflich fragen, ob es kostenlos geht.",
+        "sort_order": 1
+    },
+    {
+        "id": 83,
+        "minigame_question_id": 21,
+        "answer_text": "Pünktlich auschecken.",
+        "guess_answer_text": "Pünktlich auschecken.",
+        "sort_order": 2
+    },
+    {
+        "id": 84,
+        "minigame_question_id": 21,
+        "answer_text": "Um 11:59 Uhr rausgehen.",
+        "guess_answer_text": "Um 11:59 Uhr rausgehen.",
+        "sort_order": 3
+    },
+    {
+        "id": 85,
+        "minigame_question_id": 22,
+        "answer_text": "Nur wenn es sehr gut oder sehr schlecht war.",
+        "guess_answer_text": "Nur wenn es sehr gut oder sehr schlecht war.",
+        "sort_order": 0
+    },
+    {
+        "id": 86,
+        "minigame_question_id": 22,
+        "answer_text": "Immer eine ausführliche Bewertung.",
+        "guess_answer_text": "Immer eine ausführliche Bewertung.",
+        "sort_order": 1
+    },
+    {
+        "id": 87,
+        "minigame_question_id": 22,
+        "answer_text": "Sterne vergeben, aber ohne Text.",
+        "guess_answer_text": "Sterne vergeben, aber ohne Text.",
+        "sort_order": 2
+    },
+    {
+        "id": 88,
+        "minigame_question_id": 22,
+        "answer_text": "Nie, wer hat dafür Zeit?",
+        "guess_answer_text": "Nie, wer hat dafür Zeit?",
+        "sort_order": 3
+    },
+    {
+        "id": 89,
+        "minigame_question_id": 23,
+        "answer_text": "Rezeption anrufen.",
+        "guess_answer_text": "Rezeption anrufen.",
+        "sort_order": 0
+    },
+    {
+        "id": 90,
+        "minigame_question_id": 23,
+        "answer_text": "Wertsachen im Koffer verstecken.",
+        "guess_answer_text": "Wertsachen im Koffer verstecken.",
+        "sort_order": 1
+    },
+    {
+        "id": 91,
+        "minigame_question_id": 23,
+        "answer_text": "Alles am Körper tragen.",
+        "guess_answer_text": "Alles am Körper tragen.",
+        "sort_order": 2
+    },
+    {
+        "id": 92,
+        "minigame_question_id": 23,
+        "answer_text": "Ist mir egal, habe nichts Wertvolles dabei.",
+        "guess_answer_text": "Egal, :user hat nichts Wertvolles dabei.",
+        "sort_order": 3
+    },
+    {
+        "id": 93,
+        "minigame_question_id": 24,
+        "answer_text": "Geduldig warten.",
+        "guess_answer_text": "Geduldig warten.",
+        "sort_order": 0
+    },
+    {
+        "id": 94,
+        "minigame_question_id": 24,
+        "answer_text": "Ein Upgrade verlangen.",
+        "guess_answer_text": "Ein Upgrade verlangen.",
+        "sort_order": 1
+    },
+    {
+        "id": 95,
+        "minigame_question_id": 24,
+        "answer_text": "In der Hotelbar warten.",
+        "guess_answer_text": "In der Hotelbar warten.",
+        "sort_order": 2
+    },
+    {
+        "id": 96,
+        "minigame_question_id": 24,
+        "answer_text": "Ist mir egal, ich gehe erstmal raus.",
+        "guess_answer_text": "Egal, :user geht erstmal raus.",
+        "sort_order": 3
+    }
+]
